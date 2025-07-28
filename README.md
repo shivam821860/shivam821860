@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/shivam821860/shivam821860/blob/main/deng-xiang--WXQm_NTK0U-unsplash.jpg?raw=true)
+![MasterHead](https://github.com/shivam821860/shivam821860/blob/main/26318.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">"Aspiring Data Analyst | Skilled in Excel, SQL, Power Bi & Visualization"</h3>
 <img align="right" width="400" src="https://github.com/shivam821860/shivam821860/blob/main/carlos-muza-hpjSkU2UYSU-unsplash.jpg?raw=true">
