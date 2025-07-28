@@ -1,9 +1,10 @@
+![MasterHead](https://github.com/shivam821860/shivam821860/blob/main/deng-xiang--WXQm_NTK0U-unsplash.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">"Aspiring Data Analyst | Skilled in Excel, SQL, Power Bi & Visualization"</h3>
-
+<img align="right" width="400" src="https://github.com/shivam821860/shivam821860/blob/main/carlos-muza-hpjSkU2UYSU-unsplash.jpg?raw=true">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam821860&label=Profile%20views&color=0e75b6&style=flat" alt="shivam821860" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam821860" alt="shivam821860" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam821860" alt="shivam821860" /></a> </p>-->
 
 - 🔭 I’m currently working on **Data Analysis Projects**
 
